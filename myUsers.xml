@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+    <user>
+        <name>jaan</name>
+        <department>administration</department>
+        <folder>adminMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>viha</name>
+        <department>administration</department>
+        <folder>adminMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>olod</name>
+        <department>salg</department>
+        <folder>salgMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>stbe</name>
+        <department>salg</department>
+        <folder>salgMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>begr</name>
+        <department>kundekontakt</department>
+        <folder>kundeMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>johy</name>
+        <department>kundekontakt</department>
+        <folder>kundeMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>bibo</name>
+        <department>indkoeb</department>
+        <folder>indkobMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>jato</name>
+        <department>indkoeb</department>
+        <folder>indkobMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>loma</name>
+        <department>regnskab</department>
+        <folder>regnskabMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>maje</name>
+        <department>regnskab</department>
+        <folder>regnskabMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>kibo</name>
+        <department>regnskab</department>
+        <folder>regnskabMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>lalu</name>
+        <department>IT</department>
+        <folder>ITMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>olno</name>
+        <department>IT</department>
+        <folder>ITMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>kape</name>
+        <department>IT</department>
+        <folder>ITMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>tojo</name>
+        <department>produktion</department>
+        <folder>prodMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>loko</name>
+        <department>produktion</department>
+        <folder>prodMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>sufe</name>
+        <department>produktion</department>
+        <folder>prodMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>ibfr</name>
+        <department>produktion</department>
+        <folder>prodMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>habj</name>
+        <department>reparation</department>
+        <folder>repMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>toge</name>
+        <department>reparation</department>
+        <folder>repMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>frce</name>
+        <department>reparation</department>
+        <folder>repMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>toba</name>
+        <department>lager</department>
+        <folder>lagerMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>bjhe</name>
+        <department>lager</department>
+        <folder>lagerMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>brba</name>
+        <department>lager</department>
+        <folder>lagerMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>doka</name>
+        <department>kontor</department>
+        <folder>kontorMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>loma2</name>
+        <department>kontor</department>
+        <folder>kontorMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>kalu</name>
+        <department>kontor</department>
+        <folder>kontorMP</folder>
+        <drive>j:</drive>
+    </user>
+
+    <user>
+        <name>doka</name>
+        <department>marketing</department>
+        <folder>marketMP</folder>
+        <drive>j:</drive>
+    </user>
+</users>
